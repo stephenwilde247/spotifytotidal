@@ -59,7 +59,7 @@ def add_tracks_to_tidal(tidal_session, tracks, playlist_name):
             else:
                 print(f"Track '{track['Track Name']}' by {track['Artist']} not found in search results.")
             
-            #time.sleep(1)  # To avoid hitting rate limits
+            time.sleep(1)  # To avoid hitting rate limits
             
     except Exception as e:
         print(f"Error adding tracks to playlist: {e}")
