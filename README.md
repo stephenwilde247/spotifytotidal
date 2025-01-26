@@ -1,15 +1,4 @@
-+++
-title = 'Spotify to Tidal'
-date = 2025-01-25T13:00:00+08:00
-categories = ["Software"]
-tags = ["2025", "Content", "Spotify", "Tidal"]
-keywords = ["SEO", "Keywords", "Here"]
-description = "SEO Description Here"
-draft = false
-
-+++
-
-![Spotify to Tidal](/image/postImages/spotify-to-tidal.png)
+![Spotify to Tidal](https://stevza90.uk/image/spotify-to-tidal.png)
 
 
 # 🎵Migrate Your Spotify Playlists to Tidal with Ease!🎵
