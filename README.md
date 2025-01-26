@@ -12,7 +12,7 @@ Are you looking to move your Spotify playlists over to Tidal without manually re
    Head over to [Exportify](https://exportify.net/) log in with Spotify and download your playlists as CSV files.
 
 2. **Prepare Your Files**:  
-   Create and place all your playlist CSV files into a folder named `allPlaylists`.
+   Create and place all your playlist CSV files into a folder named `allPlaylists` put this in the location of the Python file.
 
 3. **Run the Software**:  
    - Clone or download the repository.
