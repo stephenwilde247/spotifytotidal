@@ -1,7 +1,7 @@
 ![Spotify to Tidal](https://stevza90.uk/image/spotify-to-tidal.png)
 
 
-# 🎵Migrate Your Spotify Playlists to Tidal with Ease!🎵
+# Migrate Your Spotify Playlists to Tidal with Ease!
 
 Are you looking to move your Spotify playlists over to Tidal without manually recreating them? Look no further! I've created a **Python** tool that takes the heavy lifting out of the process, making it fast and hassle-free.
 
