@@ -30,9 +30,7 @@ Are you looking to move your Spotify playlists over to Tidal without manually re
 
 ---
 
-This is an open-source project built to make switching music platforms easier. Feedback and contributions are always welcome! If you encounter any issues or have feature requests, feel free to reach out.
-
-```
+This is an open-source project built to make switching music platforms easier. Feedback and contributions are always welcome! If you encounter any issues or have feature requests, feel free to [reach out ](mailto:info@stevza90.uk)
 
 ## Disclaimer
 This software is an independent project and is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Spotify or Tidal. All product and company names are trademarks™ or registered® trademarks of their respective holders.
