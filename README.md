@@ -35,4 +35,6 @@ This is an open-source project built to make switching music platforms easier. F
 ## Disclaimer
 This software is an independent project and is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Spotify or Tidal. All product and company names are trademarks™ or registered® trademarks of their respective holders.
 
+[My Website ](https://stevza90.uk/)
+
 Happy listening! 🎶
